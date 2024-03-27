@@ -10,9 +10,14 @@ export function getPostSlugs() {
 }
 
 export function getPostBySlug(slug: string) {
+  // Remove ".md" from file name to get the slug
   const realSlug = slug.replace(/\.md$/, '');
+
+  // Read markdown file as string
   const fullPath = join(postsDirectory, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
+
+  // Use gray-matter to parse the post metadata section
   const { data, content } = matter(fileContents);
 
   return { ...data, slug: realSlug, content } as Post;
