@@ -26,58 +26,31 @@ export default function MainMenu() {
           <Link href='/cuba' className={isActiveLink('/cuba')}>
             Cuba
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/deportes' className={isActiveLink('/deportes')}>
             Deportes
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/economia' className={isActiveLink('/economia')}>
             Economía
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/internacionales' className={isActiveLink('/internacionales')}>
             Internacionales
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/cultura' className={isActiveLink('/cultura')}>
             Cultura
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/salud' className={isActiveLink('/salud')}>
             Salud
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/ciencia' className={isActiveLink('/ciencia')}>
             Ciencia-M.Ambiente
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/especiales' className={isActiveLink('/especiales')}>
             Especiales
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/efemerides' className={isActiveLink('/efemerides')}>
             Efemerides
           </Link>
-          <Link
-            as='#'
-            href='#'
-            className='inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-950'>
+          <Link href='/podcasts' className={isActiveLink('/podcasts')}>
             Pódcasts
           </Link>
         </div>

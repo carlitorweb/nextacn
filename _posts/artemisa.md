@@ -4,6 +4,7 @@ excerpt: 'Artemisa, 23 mar (ACN) Las lluvias y rachas de viento fuerte causaron 
 coverImage: '/assets/2303-artemisa.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: true
+category: 'cuba'
 author:
   name: ROMMELL GONZÁLEZ CABRERA Y JOEL MAYOR LORÁN
 ---

@@ -9,4 +9,5 @@ export type Post = {
   excerpt: string;
   content: string;
   feature: boolean;
+  category: string;
 };

@@ -4,6 +4,7 @@ excerpt: 'En medio del seguimiento a la situación provocada en la capital y en 
 coverImage: '/assets/2303-palace.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: false
+category: 'cuba'
 author:
   name: FIDEL RENDÓN MATIENZO
 ---

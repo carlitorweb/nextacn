@@ -4,6 +4,7 @@ excerpt: 'La Habana 23 Mar (ACN) Usuarios de redes sociales reportaron desde la 
 coverImage: '/assets/2303-lluvias.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: true
+category: 'cuba'
 author:
   name: Evelyn García Vasallo
 ---

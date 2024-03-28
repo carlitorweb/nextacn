@@ -1,7 +1,6 @@
 import { getAllPosts, getPostBySlug } from '@/lib/api';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import markdownToHtml from '@/lib/markdownToHtml';
 import Container from '@/app/_components/container';
 import PostHeader from '@/app/_components/post/post-header';
 import PostBody from '@/app/_components/post/post-body';
@@ -18,8 +17,6 @@ export default async function Post({ params }: Params) {
   if (!post) {
     return notFound();
   }
-
-  const content = await markdownToHtml(post.content || '');
 
   return (
     <main className='dark:bg-gray-900'>

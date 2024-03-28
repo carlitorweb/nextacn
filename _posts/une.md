@@ -4,6 +4,7 @@ excerpt: 'Más de 270 mil clientes de la Unión Eléctrica en la región occiden
 coverImage: '/assets/2303-une.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: false
+category: 'cuba'
 author:
   name: Redacción ACN
 ---

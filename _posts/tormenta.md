@@ -4,6 +4,7 @@ excerpt: 'A sus 64 años de edad Felipe Naranjo Suárez no imaginó este sábado
 coverImage: '/assets/2303-tormenta.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: false
+category: 'cuba'
 author:
   name: EVELYN CORBILLÓN DÍAZ
 ---

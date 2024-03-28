@@ -4,6 +4,7 @@ excerpt: 'El Primer Secretario del Comité Central del Partido Comunista y Presi
 coverImage: '/assets/2303-dc.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: false
+category: 'cuba'
 author:
   name: TOMADO DE PRESIDENCIA DE CUBA
 ---

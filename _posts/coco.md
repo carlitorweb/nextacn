@@ -4,6 +4,7 @@ excerpt: 'A tenor de la situación meteorológica asociada a la actividad prefro
 coverImage: '/assets/2303-coco.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: false
+category: 'cuba'
 author:
   name: ANA ESTHER ZULUETA
 ---

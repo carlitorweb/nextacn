@@ -33,3 +33,21 @@ export function getAllPosts(): Post[] {
 
   return posts;
 }
+
+export function getPostsByCategory(category: string): Post[] {
+  const slugs = getPostSlugs();
+  const posts: Post[] = [];
+
+  slugs.forEach(slug => {
+    const post = getPostBySlug(slug);
+    if (post.category === category) {
+      posts.push(post);
+    }
+  });
+
+  if (!posts.length) {
+    posts.sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
+  }
+
+  return posts;
+}

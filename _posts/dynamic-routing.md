@@ -4,6 +4,7 @@ excerpt: 'Un contingente de trabajadores eléctricos de Pinar del Río partió h
 coverImage: '/assets/2303-empresa.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: true
+category: 'cuba'
 author:
   name: EVELYN CORBILLÓN DÍAZ
 ---

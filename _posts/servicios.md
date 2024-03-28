@@ -4,6 +4,7 @@ excerpt: 'En sus 46 años en Rosamarina, Bauta, Daniel Lazo Hernández nunca hab
 coverImage: '/assets/2303-servicios.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: false
+category: 'cuba'
 author:
   name: JOEL MAYOR LORÁN Y ROMMELL GONZÁLEZ CABRERA
 ---

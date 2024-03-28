@@ -4,6 +4,7 @@ excerpt: 'Afectaciones a viviendas y a algunos objetivos económicos, averías a
 coverImage: '/assets/2303-derrum.jpg'
 date: '2020-03-16T05:35:07.322Z'
 feature: false
+category: 'cuba'
 author:
   name: EVELYN CORBILLÓN DÍAZ
 ---
